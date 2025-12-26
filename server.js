@@ -21,7 +21,7 @@ const app = express();
 connectDB();
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://frontend-intellentech-tx21vo8th-srikanthsrishs-projects.vercel.app'
+  'https://project-intellentech-frontend-nzs660bpq-srikanthsrishs-projects.vercel.app'
 ];
 
 app.use(cors({
